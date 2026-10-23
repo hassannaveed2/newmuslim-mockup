@@ -83,7 +83,7 @@ if (tocLinks.length) {
 // Story map: dotted land from Natural Earth (world-atlas) + storyteller pins
 const mapEl = document.querySelector('[data-map]')
 const STORYTELLERS = [
-  { name: 'Hannah', place: 'Manchester, UK', ll: [-2.24, 53.48], img: 'hero-dawn.jpg', t: 'The first time I held a Quran, I wept.' },
+  { name: 'Adam', place: 'Manchester, UK', ll: [-2.24, 53.48], img: 'hero-man.jpg', t: 'The first time I held a Quran, I wept.' },
   { name: 'Khadija', place: 'Atlanta, USA', ll: [-84.39, 33.75], img: 'story-atlanta.jpg', t: 'My grandmother’s Bible is still on my table.' },
   { name: 'Aisha', place: 'Manila, Philippines', ll: [120.98, 14.6], img: 'story-manila.jpg', t: 'I learned Al-Fatiha on our lunch breaks.' },
   { name: 'Kenji', place: 'Kyoto, Japan', ll: [135.77, 35.01], img: 'story-kyoto.jpg', t: 'Silence was my religion. Then I heard the adhan.' },
